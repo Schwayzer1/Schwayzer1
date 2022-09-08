@@ -1,17 +1,17 @@
-### Hi 👋 ,My name is Furkan and I'm a Full-Stack Developer 
+<h1 align="center">Hi 👋 ,My name is Furkan and I'm a Full-Stack Developer </h1>
 
-
+<div align="center">
 
 <!--**Schwayzer1/Schwayzer1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on trying to improve myself
-- 🌱 I’m currently learning React and JavaScript
-- 🤔 I’m looking for help with React, Python and Django
-- 💬 Ask me anything about HTML, CSS, Git and Istanbul
-
-## Contact me through 
+ 🔭 I’m currently working on trying to improve myself <br/>
+ 🌱 I’m currently learning React and JavaScript <br/>
+ 🤔 I’m looking for help with React, Python and Django <br/>
+ 💬 Ask me anything about HTML, CSS, Git and Istanbul 
+<br/><br/>
+<h2> Contact me through </h2>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkann.onay@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-onay-55b806246/)
@@ -21,12 +21,13 @@ Here are some ideas to get you started: -->
 ### You can contact me in:
 #### Turkish
 #### English
-
+<br/><br/>
+</div>
 <h2 align="center">My Tech Stack</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
