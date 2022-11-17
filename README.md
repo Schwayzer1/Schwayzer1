@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
  🔭 I’m currently working on trying to improve myself <br/>
  🌱 I’m currently learning React and JavaScript <br/>
  🤔 I’m looking for help with React, Python and Django <br/>
- 💬 Ask me anything about HTML, CSS, Git and Istanbul 
+ 💬 Ask me anything about HTML, CSS, Git,React.js and Istanbul 
 <br/><br/>
 <h2> Contact me through </h2>
 
