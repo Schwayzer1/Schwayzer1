@@ -56,6 +56,3 @@ Here are some ideas to get you started: -->
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schwayzer1&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
 </div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schwayzer1&theme=tokyonight" width="36%" alt="Ulna's Top Languages">
-</div>
