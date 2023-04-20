@@ -56,6 +56,10 @@ Here are some ideas to get you started: -->
 <br/><br/><br/><br/>
 
 <div align="center">
+<img
+     src="https://github-readme-stats.vercel.app/api?username=Schwayzer1&theme=blue-green"
+     alt=""
+     />
 </div>
 
 ###
@@ -63,4 +67,8 @@ Here are some ideas to get you started: -->
 <br/><br/>
 
 <div align="center">
+<img
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schwayzer1&theme=blue-green"
+     alt=""
+     /> 
 </div>
