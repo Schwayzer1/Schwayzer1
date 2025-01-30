@@ -54,7 +54,7 @@ Here are some ideas to get you started: -->
 <br/><br/><br/><br/>
 
 <div align="center">
-<a href="https://github.com/aslinurtolga">
+<a href="https://github.com/Schwayzer1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Schwayzer1&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true"/>
 </div>
 
