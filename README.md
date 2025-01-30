@@ -50,14 +50,3 @@ Here are some ideas to get you started: -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
 </div>
 
-###
-<br/><br/><br/>
-
-###
-
-<br/><br/>
-
-<div align="center">
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Schwayzer1&theme=nightowl&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schwayzer1&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
-</div>
